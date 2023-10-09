@@ -1,5 +1,4 @@
 // Não podemos criar variáveis com palavras reservadas
-// let let; // ERRADO
 // Variáveis precisam ter nomes significativos
 // Não pode começar o nome de uma variável com um número
 // Não podem conter espaços ou traços
